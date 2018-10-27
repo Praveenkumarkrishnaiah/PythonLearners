@@ -1,0 +1,70 @@
+ Try to implement same puzzle's in all possible ways, including 
+
+lambda's, higher-order functions, modules etc.
+
+1) shakuntala Devi numbers
+1= 1!
+2= 2!
+145=1! + 4! + 5! 
+?
+
+
+2) Pascal's triangle
+     1
+    1 1
+   1 2 1
+  1 3 3 1
+ 1 4 6 4 1
+1 5 10 10 5 1
+
+
+3) Fibonacci numbers
+0 1 1 2 3 5 
+
+
+4) Find all prime-multiples of a number
+45 = 3*3*5
+
+100 =2*5*5
+
+
+5) Hexdecimal to base-10 number or viceversa 
+101=5
+1010=10
+5
+A
+B
+
+6) Armstrong number
+153=1^3+5^3+3^3
+
+
+7) Digits to corresponding word
+14545=fourteen thousand five hundred and forty five
+
+
+
+=========================X=====================================
+For further sessions by Ali:
+
+reading
+
+OOT-> object oriented thinking
+
+oop-
+
+grasp
+
+gof->
+23 
+
+
+
+Object class
+Data member -> 
+Member functions -> mutators v/s inspectors
+static 
+Inheritance or Containement
+
+
+
